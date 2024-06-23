@@ -55,18 +55,30 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+## Github stats <img src="https://github.com/AswinPKumar01/AswinPKumar01/blob/main/Statistics.gif" height = "30" width="40">
+
+<br/>
+
+<div class = "container">  
+<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=Deepakt0405&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" />
+ 
+<img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=Deepakt0405&theme=dracula&hide_border=true" />
+ 
+<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakt0405&layout=donut&theme=dracula&hide_border=true" />
+
+<img style="height = 80%; width: 55%;" class="img" src="https://leetcode-stats-six.vercel.app/api?username=Deepak_0405&theme=dark" />
+</div>
 </div>
 
-<br/><br/>
+<br/>
+<!-- [![Aswin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aswin_Pradeep&theme=dark)](https://github.com/AswinPKumar01/github-readme)
+ -->
+ 
+<br/>
 
-<hr/>
+[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepakt0405&theme=github-compact&height=350&hide_border=true)](https://github.com/Deepakt0405/github-readme-activity-graph)
+
+<br/>
 
 <br/>
 
